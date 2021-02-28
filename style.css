@@ -1,0 +1,12 @@
+table {
+border: medium solid black;
+border-collapse: collapse;
+width: 100%;
+}
+ 
+th {
+border: thin solid black;
+}
+
+td {
+border: thin solid black;
